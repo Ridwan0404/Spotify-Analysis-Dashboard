@@ -46,6 +46,3 @@ The **Details** section provides a breakdown of individual track plays:
 
 ## Conclusion
 This Power BI dashboard provides a comprehensive analysis of Spotify track plays, helping to identify listening trends, platform usage, and engagement levels. The data indicates a decrease in track plays over the year, with peak plays occurring in specific months and days. This analysis can assist in making data-driven decisions to improve user engagement.
-
-### Author
-** Ridwan Salaudeen**

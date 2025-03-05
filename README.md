@@ -4,10 +4,10 @@ An interactive Power BI dashboard for analyzing Spotify data, including track po
 # Spotify Analysis Dashboard
 
 ## Overwiew Dashboard
-![Overwiew](https://github.com/user-attachments/assets/efdd317f-c178-4b90-963e-b87ed4918143)
+![Overwiew](https://github.com/user-attachments/assets/d830f1cd-f727-48fe-83e7-83d2e5506754)
 
 ## Details Dashboard
-![Details](https://github.com/user-attachments/assets/57ee8536-2a6a-4503-9cba-0f29991cc66b)
+![Details](https://github.com/user-attachments/assets/eb526ea2-b553-4820-9747-2687a966cb62)
 
 ## Overview 
 This repository contains a Power BI dashboard that provides an in-depth analysis of Spotify track data, including insights on track play trends, platform usage, and listening patterns. The dashboard consists of two main sections:

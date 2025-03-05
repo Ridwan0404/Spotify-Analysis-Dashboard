@@ -1,4 +1,4 @@
-# Spotify-Analysus-Dashboard
+# Spotify-Analysis-Dashboard
 An interactive Power BI dashboard for analyzing Spotify data, including track popularity, artist insights, genre trends, and audio features.
 
 # Spotify Analysis Dashboard
